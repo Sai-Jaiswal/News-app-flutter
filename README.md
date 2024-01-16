@@ -1,6 +1,6 @@
-# flutter_practice_apps
+# A News App
 
-A new Flutter project.
+A app which can give you the news from all around the world
 
 ## Getting Started
 
